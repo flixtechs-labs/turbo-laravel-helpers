@@ -11,7 +11,7 @@
     </a>
 </p>
 
-See https://flixtechs-labs/stimulus-extra
+See https://github.com/flixtechs-labs/stimulus-extra
 
 # Turbo Laravel Helpers
 
