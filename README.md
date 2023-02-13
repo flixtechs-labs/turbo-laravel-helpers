@@ -11,6 +11,8 @@
     </a>
 </p>
 
+See https://flixtechs-labs/stimulus-extra
+
 # Turbo Laravel Helpers
 
 The missing stimulus helpers for laravel blade! This package contains a bunch of helpers that pairs nicely with `hotwired/stimulus-laravel` package. 
